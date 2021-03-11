@@ -9,7 +9,7 @@ int main (int argc, char **argv)
 	if (c < 100000)
 		printf("Poor guy! %d? Really?!\n", c);
 	else
-		printf("Hmmm... %d! I like!\n");
+		printf("Hmmm... %d! I like!\n", c);
 
 	return 0;
 }
